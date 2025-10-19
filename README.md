@@ -169,17 +169,3 @@ kubectl delete -f mongo-deployment.yaml
 # Verify deletion
 kubectl get all
 ```
-
-## 👨‍💻 Author
-
-**Name:** Karthik S  
-**Project:** Kaiburr Assessment - Task 2  
-**Date:** October 2025
-
-## 📄 License
-
-This project is part of the Kaiburr Assessment.
-
----
-
-For questions or issues, please contact the author.
